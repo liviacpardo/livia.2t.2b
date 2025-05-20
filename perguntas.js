@@ -56,3 +56,13 @@ criaCartao(
     'Quantos anos tem a Fórmula 1 e onde foi a primeira corrida?',
     'Completa 75 anos neste ano de 2025. A primeira corrida oficial ocorreu em Silverstone, Inglaterra.'
 )
+criaCartao(
+    'Vitóias',
+    'Quem é o piloto com mais vitórias em uma única temporada na Fórmula 1?',
+    'Max Verstappen.'
+)
+criaCartao(
+    'Brasil',
+    'Qual o nome do único piloto brasleiro atualmente no grid?',
+    'Gabriel Bortoletto.'
+)
