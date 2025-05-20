@@ -57,7 +57,7 @@ criaCartao(
     'Completa 75 anos neste ano de 2025. A primeira corrida oficial ocorreu em Silverstone, Inglaterra.'
 )
 criaCartao(
-    'Vitóias',
+    'Vitórias',
     'Quem é o piloto com mais vitórias em uma única temporada na Fórmula 1?',
     'Max Verstappen.'
 )
