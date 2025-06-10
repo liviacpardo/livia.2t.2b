@@ -8,7 +8,7 @@
 }
 
 body {
-    background: url('./img/fundo.jpg');
+    background: url('./fundo.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     font-family: "Sour Gummy", sans-serif;
@@ -106,7 +106,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('./img/fundo.jpg');
+        background: url('./fundo.jpg');
         background-size: auto;
         background-repeat: repeat;
         font-family: "Playwrite PL", cursive;
