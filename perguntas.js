@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'Circuítos',
-    'Quantos circuítos possui a temporada de 2025?',
-    '24 circuítos, incluindo autódrmos e corridas de rua.'
+    'Quantos circuitos possui a temporada de 2025?',
+    '24 circuitos, incluindo autódromos e corridas de rua.'
 )
 
 criaCartao(
@@ -24,25 +24,25 @@ criaCartao(
 
 criaCartao(
     'Lewis Hamilton',
-    'Qantos títulos pela F1 possui o piloto Lewis Hamilton?',
+    'Quantos títulos pela F1 possui o piloto Lewis Hamilton?',
     '7 títulos mundiais,  sendo eles: 2008, 2014, 2015, 2017, 2018, 2019 e 2020'
 )
 
 criaCartao(
     'Michael Schumacher',
-    'Qual foi a ultima equipe e o ultímo circuíto que Michael Schumacher correu plea ultíma vez antes de seu acidente?',
+    'Qual foi a última equipe e o último circuíto que Michael Schumacher correu pela última vez antes de seu acidente?',
     'Equipe Mercedes, no circuíto de Interlagos, no Brasil, em 2012.'
 )
 
 criaCartao(
     'Campeão',
-    'Quem foi o ultímo campeão mundial de Formúla 1 (2024)?',
+    'Quem foi o último campeão mundial de Fórmula 1 (2024)?',
     'Max Verstappen.'
 )
 
 criaCartao(
     'Pilotos',
-    'Quantos pilotos disputam disputam atualmente (2025) o campeonato automobilístico de Fórmula 1?',
+    'Quantos pilotos disputam atualmente (2025) o campeonato automobilístico de Fórmula 1?',
     '20 pilotos.'
 )
 
